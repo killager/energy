@@ -1,6 +1,4 @@
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
+
 local function getChatId(chat_id)
   local chat = {}
   local chat_id = tostring(chat_id)
@@ -33,6 +31,3 @@ patterns ={
  }, 
   run = run 
 }
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
